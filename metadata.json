@@ -1,0 +1,6 @@
+{
+  "name": "PAPUA MARKET",
+  "description": "Marketplace digital produk lokal Papua — Dari Papua untuk Indonesia. Temukan noken, kopi Wamena, batik Papua, sagu, hasil laut, dan kerajinan UMKM asli Papua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

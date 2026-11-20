@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Data runtime (dibuat otomatis dari seed jika tidak ada)
+data/
+uploads/*
+!uploads/.gitkeep
+.aistudio/
